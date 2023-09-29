@@ -1,0 +1,6 @@
+[submodule "uhelp-backend"]
+	path = uhelp-backend
+	url = https://github.com/uhelp-dev/uhelp-backend
+[submodule "uhelp-frontend"]
+	path = uhelp-frontend
+	url = https://github.com/uhelp-dev/uhelp-frontend
